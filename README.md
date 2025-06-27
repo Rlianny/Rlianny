@@ -8,7 +8,7 @@
 |-------------|-------------|
 | **[Gwent Pro](https://github.com/Rlianny/Degree_Token_2025)** |Réplica interactiva del famoso juego de cartas de The Witcher, desarrollado con Unity con temática de Rick and Morty |
 | **[Degree Token](https://github.com/Rlianny/Degree_Token_2025)** | Sistema basado en blockchain para tokenización de títulos universitarios mediante NFTs no transferibles |
-| **[Moogle](https://github.com/Rlianny/Moogle_2023)**||Aplicación de búsqueda de documentos que utiliza procesamiento de lenguaje natural (NLP) y modelo vectorial para encontrar resultados relevantes, con sugerencias de términos y cálculo de relevancia.|
+| **[Moogle](https://github.com/Rlianny/Moogle_2023)**|Aplicación de búsqueda de documentos que utiliza procesamiento de lenguaje natural (NLP) y modelo vectorial para encontrar resultados relevantes, con sugerencias de términos y cálculo de relevancia|
 
 ### Colaboraciones
 | Repositorio | Descripción | Mi Contribución | 
