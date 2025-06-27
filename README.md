@@ -1,6 +1,6 @@
 ## 👩‍💻 Sobre Mí
 
-¡Hola! Soy **Rlianny**, estudiante de Ingeniería en Sistemas y Computación en la UNPHU con pasión por el desarrollo de software.
+¡Hola! Soy **Rlianny**, estudiante de Ingeniería en Sistemas y Computación en la Universidad de La Habana con pasión por el desarrollo de software.
 
 ---
 ### Mis Proyectos
