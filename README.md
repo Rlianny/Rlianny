@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👩‍💻 Sobre Mí
 
-<!--
-**Rlianny/Rlianny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy **Rlianny**, estudiante de Ingeniería en Sistemas y Computación en la UNPHU con pasión por el desarrollo de software.
 
-Here are some ideas to get you started:
+---
+### Mis Proyectos
+| Repositorio | Descripción |
+|-------------|-------------|
+| **[Gwent Pro](https://github.com/Rlianny/Degree_Token_2025)** |Réplica interactiva del famoso juego de cartas de The Witcher, desarrollado con Unity con temática de Rick and Morty |
+| **[Degree Token](https://github.com/Rlianny/Degree_Token_2025)** | Sistema basado en blockchain para tokenización de títulos universitarios mediante NFTs no transferibles |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Colaboraciones
+| Repositorio | Descripción | Mi Contribución | 
+|-------------|-------------|-----------------|
+| **[MatCom Guard](https://github.com/crackbandicoot-dot/matcomguard)** |Sistema integral de seguridad para Linux que monitorea tres frentes críticos en tiempo real | Diseño e implementación del módulo de escaneo de dispositivos USB conectados + Desarrollo de UI en consola |
+| **[EDO Solver](https://github.com/MaureenSales/EDO.git)** | Programa académico en Java que implementa métodos numéricos (Euler, Runge-Kutta) para resolver ecuaciones diferenciales ordinarias. Permite comparar soluciones analíticas vs. numéricas y visualizar resultados gráficamente. | Desarrollo de UI con Python |
+
