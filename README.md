@@ -15,4 +15,5 @@
 |-------------|-------------|-----------------|
 | **[MatCom Guard](https://github.com/crackbandicoot-dot/matcomguard)** |Sistema integral de seguridad para Linux que monitorea tres frentes críticos en tiempo real | Diseño e implementación del módulo de escaneo de dispositivos USB conectados + Desarrollo de UI en consola |
 | **[EDO Solver](https://github.com/MaureenSales/EDO.git)** | Programa académico en Java que implementa métodos numéricos (Euler, Runge-Kutta) para resolver ecuaciones diferenciales ordinarias. Permite comparar soluciones analíticas vs. numéricas y visualizar resultados gráficamente. | Desarrollo de UI con Python |
+|**[S-MIPS](https://github.com/KevinTorres01/Proyecto-SMIPS-2024-2025.git)**|Implementación de una arquitectura para interpretar las instrucciones de S-MIPS|Diseño e implementación Control Unit del microprocesador|
 
